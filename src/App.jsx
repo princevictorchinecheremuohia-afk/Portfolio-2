@@ -73,7 +73,7 @@ function App() {
         <p className="text-lg opacity-90">
           I'm a passionate developer who loves building modern web experiences.
         </p>
-        <ThemeSwitcher onThemeChange={handleThemeChange} currentTheme={theme} />
+        {/* <ThemeSwitcher onThemeChange={handleThemeChange} currentTheme={theme} /> This wasn't coming out well*/}
       </main>
       <About about={aboutMe} />
       <Projects projects={projectData} />
