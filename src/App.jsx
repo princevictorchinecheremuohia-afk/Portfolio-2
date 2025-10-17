@@ -61,7 +61,7 @@ function App() {
       title: "About Me",
       description:
         "Hi, I’m Prince Victor, a passionate Front-End Developer who enjoys transforming creative ideas into functional, beautiful, and user-friendly websites. I specialize in React, Tailwind CSS, and JavaScript, crafting responsive designs that look great on any device. I’m driven by curiosity and the desire to build digital experiences that truly connect with people. When I’m not coding, I love exploring new technologies and refining my skills through personal projects.",
-      image: "/src/assets/me.jpeg",
+      image: "/me.jpeg",
     },
   ];
 
